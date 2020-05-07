@@ -1,2 +1,2 @@
-# Python-Coding-Notes
-Python for Data Science and Machine Learning
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
